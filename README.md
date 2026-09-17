@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040138
+# Name:JADEN SAMUEL ABRAHAM
+# Date: 17/9/26
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1280" height="662" alt="image" src="https://github.com/user-attachments/assets/b122a01b-d709-41cb-9390-7831a598e2ac" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1097" height="685" alt="image" src="https://github.com/user-attachments/assets/38269385-972d-4858-96db-bf539c444901" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1272" height="705" alt="image" src="https://github.com/user-attachments/assets/dad62c30-034f-468b-bc41-23b43884f3d3" />
 
 
 
@@ -76,11 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+<img width="1232" height="683" alt="image" src="https://github.com/user-attachments/assets/55b9a36f-77de-4caa-86ea-d4296122989b" />
 
 
 # ACTIVITY DIAGRAM:
@@ -95,9 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="947" height="668" alt="image" src="https://github.com/user-attachments/assets/e949db7a-1f15-435d-a040-cb8cdcae61bd" />
 
 # SEQUENCE DIAGRAM
 
@@ -117,7 +114,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+<img width="1307" height="606" alt="image" src="https://github.com/user-attachments/assets/4d5fe81b-153a-4e70-a53a-4f81ae36fbb0" />
 
 
 
